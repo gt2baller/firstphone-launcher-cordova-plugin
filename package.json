@@ -1,0 +1,25 @@
+{
+  "name": "firstphone-launcher-cordova-plugin",
+  "version": "1.0.1",
+  "description": "Cordova FIRST phone Launcher Plugin",
+  "cordova": {
+    "id": "com.homedepot.cordova.plugin.firstphone.launcher",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "plugin.firstphone.launcher",
+    "cordova-android"
+  ],
+  "author": "The Home Depot",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.homedepot.com/Back-Office-And-In-Aisle-Systems/firstphone-launcher-cordova-plugin.git"
+  }
+}
